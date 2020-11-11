@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: simple-factory
+server:
+  port: 8081

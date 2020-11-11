@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: abstract-factory
+server:
+  port: 8083
