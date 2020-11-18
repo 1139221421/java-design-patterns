@@ -1,5 +1,0 @@
-spring:
-  application:
-    name: method-factory
-server:
-  port: 8082
